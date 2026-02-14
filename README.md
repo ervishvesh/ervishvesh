@@ -1,55 +1,124 @@
-# Hi there! I'm Vishvesh Suthar 👋
+<!-- HERO HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Vishvesh%20Suthar&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=WordPress%20Architect%20%7C%20Full%20Stack%20Engineer&descAlignY=75"/>
+</p>
 
-### 🚀 WordPress Developer | Full-Stack Developer
-
-I'm a skilled **WordPress Developer** with full-stack expertise, specializing in custom theme and plugin development, as well as WooCommerce integration. With a strong foundation in **PHP**, I also bring a deep understanding of **Laravel**, **React**, and **Next.js** for modern web development. My expertise extends to **serverless applications** and **cloud platforms** like **AWS**, **GCP**, and **Firebase**, enabling me to deliver scalable and secure web solutions.
-
-I am passionate about crafting efficient, scalable applications and thrive on creating solutions that enhance both user experience and performance.
-
----
-
-### 🛠 **Technical Skills**
-
-- **WordPress**: Custom theme & plugin development, WooCommerce, WordPress VIP, Bedrock structure.
-- **Backend**: PHP (WordPress, Laravel), Node.js, Python.
-- **Frontend**: JavaScript (React.js, Next.js).
-- **Serverless & Cloud**: AWS, Google Cloud (GCP), Firebase.
-- **CMS**: WordPress, Drupal.
-- **Other**: RESTful APIs, Microservices architecture, Serverless applications, CI/CD.
+<!-- BRAND BADGE -->
+<p align="center">
+  <a href="https://www.araavia.com">
+    <img src="https://img.shields.io/badge/Araavia-Founder%20%26%20Engineering%20Leader-020617?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
+  </a>
+</p>
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Scalable+Platforms;WordPress+%26+Full+Stack+Engineer;Cloud+Ready+Solutions;Performance+Driven+Development;Crafting+High+Impact+Systems"/>
+</p>
 
 ---
 
-### 📂 **Projects**
+## 🧠 About Me
 
-Here are some of the projects I’ve worked on:
+I design and build scalable digital systems that power modern businesses.  
+Focused on performance, clean architecture, and reliable production delivery.
 
-- **Custom WooCommerce Solutions**: 
-  - Built and customized WooCommerce shops, developing custom themes and integrating advanced payment gateways.
-  
-- **Laravel & Serverless APIs**:
-  - Developed API-first applications with Laravel and Node.js, and deployed on AWS/GCP serverless architecture.
-  
-- **React/Next.js Frontend Apps**:
-  - Built dynamic, scalable web applications using React and Next.js, including SEO-optimized websites.
+Working across WordPress, full-stack development, and cloud platforms to create solutions that scale and perform.
 
 ---
 
-### 💡 **What I’m Currently Working On**
+## ⚡ What I Do
 
-- Building serverless WordPress applications using AWS Lambda and GCP Functions.
-- Developing advanced WooCommerce features and custom WordPress plugins.
-
----
-
-### 🌱 **What I’m Learning Next**
-
-- Exploring deeper into microservices and containerization (Docker, Kubernetes).
-- Enhancing my knowledge of GraphQL and headless CMS architectures.
+- Build scalable web platforms
+- Architect WordPress systems
+- Develop full-stack applications
+- Optimize performance
+- Design SEO-ready websites
+- Deploy cloud solutions
 
 ---
 
-### 📫 **How to Reach Me**
+## 🛠 Tech Stack
 
-- Email: er.vishvesh@gmail.com
-- LinkedIn: https://www.linkedin.com/in/vishvesh-suthar
-- Stack Overflow: https://stackoverflow.com/users/27695562/vishvesh-suthar
+## ⚙️ Core Engineering Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/WordPress-Architecture-111827?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-Backend-111827?style=for-the-badge&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/Laravel-Framework-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+<img src="https://img.shields.io/badge/Node.js-Server-111827?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/React-Frontend-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-Fullstack-111827?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud-020617?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/GCP-Platform-020617?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Firebase-Backend-020617?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-020617?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+
+</p>
+
+---
+
+## 🧠 Architecture & Engineering Practices
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST%20APIs-Design-030712?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-Scalable-030712?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance-Optimization-030712?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-030712?style=for-the-badge&logo=git"/>
+
+</p>
+
+---
+
+## 📊 Metrics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ervishvesh&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ervishvesh&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Serverless WordPress systems
+- High performance optimization
+- Scalable architectures
+- Modern cloud workflows
+
+---
+
+## 🌍 Professional Links
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishvesh-suthar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:er.vishvesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## 💬 Philosophy
+
+> Build fast. Build scalable. Build with intent.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer"/>
+</p>
