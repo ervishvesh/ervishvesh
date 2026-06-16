@@ -4,11 +4,11 @@
 </p>
 
 <!-- BRAND BADGE -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.araavia.com">
     <img src="https://img.shields.io/badge/Araavia-Founder%20%26%20Engineering%20Leader-020617?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
   </a>
-</p>
+</p> -->
 <!-- TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Scalable+Platforms;WordPress+%26+Full+Stack+Engineer;Cloud+Ready+Solutions;Performance+Driven+Development;Crafting+High+Impact+Systems"/>
